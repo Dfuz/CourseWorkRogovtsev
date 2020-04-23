@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545742845 source:c:\users\vadim\desktop\kursovaya\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
